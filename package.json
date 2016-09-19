@@ -1,7 +1,7 @@
 {
-  "name": "learn-redux",
-  "version": "1.0.0",
-  "description": ":) ",
+  "name": "rbrain",
+  "version": "0.1.0",
+  "description": "redux react app WIP braintree google analytics ",
   "scripts": {
     "build:webpack": "nodejs_ENV=production webpack --config webpack.config.prod.js",
     "build": "npm run clean && npm run build:webpack",
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wesbos/Learn-Redux.git"
+    "url": "https://github.com/siliconmagi/rbrain.git"
   },
-  "author": "Wes Bos",
+  "author": "siliconmagi",
   "license": "MIT",
-  "homepage": "https://github.com/wesbos/Learn-Redux",
+  "homepage": "https://github.com/siliconmagi/rbrain",
   "dependencies": {
     "babel-core": "^6.5.2",
     "babel-eslint": "^5.0.0",
